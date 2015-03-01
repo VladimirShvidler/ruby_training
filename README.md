@@ -1,1 +1,1 @@
-# ruby_training
+# Repository for Ruby Training
